@@ -39,7 +39,7 @@
   <img src="https://user-images.githubusercontent.com/21699695/146571158-1af191a8-93d7-4714-ad02-c63dc436dca5.png" alt="Editor" width="300">
 </div>  
 ### 设置跨域
-> 复制一个google浏览器快捷键 右键‘属性’，‘快捷方式’，‘目标’ 路径最后边按一下空格
+> 复制一个google浏览器快捷键 右键‘属性’，‘快捷方式’，‘目标’ 路径最后边按一下空格  
 ```js
 --args --disable-web-security --user-data-dir=D:\HaoroomsChromeUserData
 ```
