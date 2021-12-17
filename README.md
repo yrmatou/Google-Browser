@@ -45,12 +45,22 @@
 ```js
 --args --disable-web-security --user-data-dir=D:\HaoroomsChromeUserData
 ```
+**91版本之前**  
 > chrome://flags
 地址栏输入**chrome://flags**并回车
 搜索栏中输入**SameSite by default cookies**搜索,会有两项设置
-改为**Disabled**后重启浏览器即可
+改为**Disabled**后重启浏览器即可  
 
-**我使用的是86版本的**  
+**91版本之后, 94已移除**  
+```js
+--disable-features=SameSiteByDefaultCookies,CookiesWithoutSameSiteMustBeSecure
+```
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/146574166-2099853c-a11f-4c20-9774-844ac2380db6.png" alt="Editor" width="300">
+</div>
+
+**我使用的是86版本的，根据你的版本来搜索解决方案**  
+
 **强烈推荐福利！！！每天免费领取饿了么，美团外卖红包（买菜，点美食都可以）**
 
 <div align="left">
