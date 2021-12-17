@@ -19,13 +19,22 @@
 **跨域的话建议使用低版本的，我下载的是87版本的**
 
 ### 禁用浏览器自动更新
-> 最暴力方便的方法
-> C盘中把GoogleUpdate.exe文件改个名，这个是Chrome默认的安装位置（应该）  
+**最暴力方便的方法**  
+> 1.C盘中把GoogleUpdate.exe文件改个名，这个是Chrome默认的安装位置（应该）  
+
 <div align="left">
   <img src="https://user-images.githubusercontent.com/21699695/146568603-d7c53216-3ad8-4305-aac2-084df4d723b3.png" alt="Editor" width="200">
-</div>  
+</div> 
 
-> 把名字改了 GoogleUpdate.exe加个字符即可  
+>2. 修改名称，GoogleUpdate.exe加个字符即可  
 <div align="left">
   <img src="https://user-images.githubusercontent.com/21699695/146569451-52cf0345-2c83-4318-a639-d148fbf072b8.png" alt="Editor" width="300">
+</div>  
+
+>3.假如点关于还是会更新到最新版本，这有一个补偿方法  
+* 在来Update文件夹上右键，在属性里的安全页签里点击编辑，设置system完全控制权设置为拒绝，administrator权限也是它赋予的。
+* System是最高权限，设置完了之后google就没有权限动这个文件了
+* 如图就是限制update文件夹权限
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/146571158-1af191a8-93d7-4714-ad02-c63dc436dca5.png" alt="Editor" width="300">
 </div>  
