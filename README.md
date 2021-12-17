@@ -14,4 +14,9 @@
 **安装**  
 [Google浏览器历史版本列表1](https://www.chromedownloads.net/chrome64win/)  
 [Google浏览器历史版本列表2](https://filehippo.com/download_google-chrome/history/)  
-> 两个最全列表，推荐第一个链接下载指定版本，哪个能访问下载哪一个。
+> 两个最全列表，推荐第一个链接下载指定版本，哪个能访问下载哪一个。  
+
+**跨域的话建议使用低版本的，我下载的是87版本的**
+
+### 禁用浏览器自动更新
+> 
