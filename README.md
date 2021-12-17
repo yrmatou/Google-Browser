@@ -38,8 +38,27 @@
 <div align="left">
   <img src="https://user-images.githubusercontent.com/21699695/146571158-1af191a8-93d7-4714-ad02-c63dc436dca5.png" alt="Editor" width="300">
 </div>  
+
 ### 设置跨域
 > 复制一个google浏览器快捷键 右键‘属性’，‘快捷方式’，‘目标’ 路径最后边按一下空格  
+
 ```js
 --args --disable-web-security --user-data-dir=D:\HaoroomsChromeUserData
 ```
+> chrome://flags
+地址栏输入**chrome://flags**并回车
+搜索栏中输入**SameSite by default cookies**搜索,会有两项设置
+改为**Disabled**后重启浏览器即可
+
+**我使用的是86版本的**  
+**强烈推荐福利！！！每天免费领取饿了么，美团外卖红包（买菜，点美食都可以）**
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/140758752-182a4db2-ec40-4154-a090-4aba56583862.jpg" alt="Editor" width="200">
+</div>
+
+**互相学习交流**
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/123603292-4f911180-d82c-11eb-809b-9c9f6232ba04.png" alt="Editor" width="200">
+</div>
