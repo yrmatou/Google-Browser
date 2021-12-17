@@ -19,4 +19,13 @@
 **跨域的话建议使用低版本的，我下载的是87版本的**
 
 ### 禁用浏览器自动更新
-> 
+> 最暴力方便的方法
+> C盘中把GoogleUpdate.exe文件改个名，这个是Chrome默认的安装位置（应该）  
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/146568603-d7c53216-3ad8-4305-aac2-084df4d723b3.png" alt="Editor" width="200">
+</div>  
+
+> 把名字改了 GoogleUpdate.exe加个字符即可  
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/146569451-52cf0345-2c83-4318-a639-d148fbf072b8.png" alt="Editor" width="300">
+</div>  
